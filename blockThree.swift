@@ -4,6 +4,6 @@ let first = "initial constant"
 
 
 // artem added changes here:
-
+let phone = "iPhone 14"
 
 let button = "text button"
