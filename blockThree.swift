@@ -5,6 +5,5 @@ let first = "initial constant"
 
 // artem added changes here:
 
-let firstName = "Artem"
 
 let button = "text button"
