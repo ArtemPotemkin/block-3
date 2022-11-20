@@ -7,3 +7,5 @@ let second = "second commit add"
 // artem added changes here:
 
 let firstName = "Artem"
+
+let secondName = "Evgenevich"
