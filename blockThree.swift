@@ -7,3 +7,5 @@ let first = "initial constant"
 let phone = "iPhone 14"
 
 let button = "text button"
+
+let car = "Audi"
