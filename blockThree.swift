@@ -9,3 +9,5 @@ let second = "second commit add"
 let firstName = "Artem"
 
 let secondName = "Evgenevich"
+
+let button = "text button"
