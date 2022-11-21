@@ -10,6 +10,3 @@ let button = "text button"
 
 let car = "Audi"
 
-let zero = 0
-let one = 1
-let two = 2
